@@ -1,0 +1,17 @@
+*/__pycache__
+.vscode
+outputs/*
+train_temp.py
+*.txt
+*ipynb
+upload.sh
+logs/*
+*.png
+temp.py
+train_t5_OI.py
+*.json
+andrew.py
+*.png
+data/dataset_cache/*
+etc
+log_txt
